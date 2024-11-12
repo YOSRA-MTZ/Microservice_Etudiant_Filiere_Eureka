@@ -10,6 +10,7 @@
         <module name="msEtudiant" />
         <module name="msFiliere" />
         <module name="Eureka" />
+        <module name="auth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Eureka" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
+      <module name="auth" options="-parameters" />
       <module name="msEtudiant" options="-parameters" />
       <module name="msEtudiant (1)" options="-parameters" />
       <module name="msFiliere" options="-parameters" />
